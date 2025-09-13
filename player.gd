@@ -51,6 +51,7 @@ func _physics_process(delta):
 	# Jumping.
 	if is_on_floor() and Input.is_action_just_pressed("jump"):
 		target_velocity.y = jump_impulse
+		$JumpSFX.play()
 
 	# Iterate through all collisions that occurred this frame
 	# in C this would be for(int i = 0; i < collisions.Count; i++)

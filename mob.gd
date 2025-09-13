@@ -2,6 +2,7 @@ extends CharacterBody3D
 
 @export var min_speed = 10
 @export var max_speed = 18
+@export var death_sfx: AudioStream 
 signal squashed
 
 func _physics_process(_delta):
@@ -30,5 +31,13 @@ func _on_visible_on_screen_notifier_3d_screen_exited() -> void:
 	queue_free()
 
 func squash() -> void:
+	if death_sfx:
+		var sfx := AudioStreamPlayer3D.new()
+		sfx.stream = death_sfx
+		sfx.global_transform = global_transform
+		get_tree().current_scene.add_child(sfx)
+		sfx.finished.connect(sfx.queue_free)
+		sfx.play()
+
 	squashed.emit()
 	queue_free()

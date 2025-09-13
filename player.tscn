@@ -1,8 +1,9 @@
-[gd_scene load_steps=9 format=3 uid="uid://y6yhgskfp7br"]
+[gd_scene load_steps=10 format=3 uid="uid://y6yhgskfp7br"]
 
 [ext_resource type="PackedScene" uid="uid://d0ypm0v45pwdv" path="res://art/player.glb" id="1_4flbx"]
 [ext_resource type="Script" uid="uid://dc8epplvp0s8t" path="res://player.gd" id="1_onrkg"]
 [ext_resource type="PackedScene" uid="uid://ccgfjpmi4lu24" path="res://art/copper_golem__unoxidized__minecraft.glb" id="3_i3pqv"]
+[ext_resource type="AudioStream" uid="uid://da8jd2oqsf5au" path="res://art/action_jump.mp3" id="4_hqtel"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_onrkg"]
 radius = 0.8
@@ -151,5 +152,8 @@ libraries = {
 &"": SubResource("AnimationLibrary_hqtel")
 }
 autoplay = "float"
+
+[node name="JumpSFX" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource("4_hqtel")
 
 [connection signal="body_entered" from="MobDetector" to="." method="_on_mob_detector_body_entered"]
