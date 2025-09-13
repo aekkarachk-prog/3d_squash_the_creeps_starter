@@ -1,17 +1,18 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757790754
+::res://::1757791007
 export_presets.cfg::TextFile/TextFile::-1::1757790071::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757682574::1757682583::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main.gd::GDScript/GDScript::9116220553075717935::1757778210::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::4478212989435641906::1757790097::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
-mob.gd::GDScript::7978233083930169204::1757788755::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::2104397866351047185::1757790097::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://b8ghpgklcr2o7::::res://art/minecraft_hit_soundmp3converter.mp3<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
-music_player.tscn::PackedScene::1802506390125390882::1757790754::0::1::::<><><>0<>0<><>::
-player.gd::GDScript::7368034664937274069::1757788621::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::1749998009480602555::1757790097::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb<>uid://da8jd2oqsf5au::::res://art/action_jump.mp3
+main.tscn::PackedScene::4478212989435641906::1757790836::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
+mob.gd::GDScript/GDScript::7978233083930169204::1757788755::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::2104397866351047185::1757790836::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://b8ghpgklcr2o7::::res://art/minecraft_hit_soundmp3converter.mp3<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
+music_player.tscn::PackedScene::1802506390125390882::1757790882::0::1::::<><><>0<>0<><>::uid://o2t06f0auhsk::::res://art/1-18. Sweden.ogg
+player.gd::GDScript/GDScript::7368034664937274069::1757788621::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::1749998009480602555::1757790836::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb<>uid://da8jd2oqsf5au::::res://art/action_jump.mp3
+README.md::TextFile::-1::1757790924::0::1::::<><><>0<>0<><>::
 score_label.gd::GDScript/GDScript::3143647212666895673::1757777800::0::1::::<>Label<><>0<>0<><>::
 ::res://art/::1757790768
-1-18. Sweden.ogg::AudioStreamOggVorbis::1039581915086809482::1757790768::1757790768::1::::<><><>0<>0<>682eda02b8ce58875a1398524f446971<>res://.godot/imported/1-18. Sweden.ogg-fd710fa427c68c3998ce4799138713db.oggvorbisstr::
+1-18. Sweden.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::1039581915086809482::1757790768::1757790768::1::::<><><>0<>0<>682eda02b8ce58875a1398524f446971<>res://.godot/imported/1-18. Sweden.ogg-fd710fa427c68c3998ce4799138713db.oggvorbisstr::
 action_jump.mp3::AudioStreamMP3/AudioStreamMP3::7227939767788856404::1757788440::1757788440::1::::<><><>0<>0<>ad82e43a1bf3df11649e9a890bdb50a9<>res://.godot/imported/action_jump.mp3-7dd16c5a13198bb29fb3d9a74a6477e8.mp3str::
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
 copper_golem__unoxidized__minecraft.glb::PackedScene/PackedScene::4925925785086200619::1757781511::1757781513::1::::<><><>0<>0<>0288b3954561efa32febde03cd1c0cb3<>res://.godot/imported/copper_golem__unoxidized__minecraft.glb-9d882c91a9d6dae8d5baccbb2d42ba2a.scn::uid://yt5j5xr5vv10::::res://art/copper_golem__unoxidized__minecraft_0.png<>uid://btqovoxspfopq::::res://art/copper_golem__unoxidized__minecraft_1.png
@@ -32,9 +33,9 @@ mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><
 player.glb::PackedScene/PackedScene::8964461739428881931::1757682574::1757682585::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
 ::res://docs/::1757790089
-index.apple-touch-icon.png::CompressedTexture2D::8205683271826438271::1757790070::1757790089::1::::<><><>0<>0<>eb87407cbfa446e4df6f1d20621d45c3<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
-index.icon.png::CompressedTexture2D::2327672860559380957::1757790070::1757790089::1::::<><><>0<>0<>33ab424ca5161c4caf8d62eb3a670fb1<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
-index.png::CompressedTexture2D::8528892339132544280::1757790070::1757790089::1::::<><><>0<>0<>b1dbe80a1e7054da4fefbdb79fce99a8<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::8205683271826438271::1757790070::1757790089::1::::<><><>0<>0<>eb87407cbfa446e4df6f1d20621d45c3<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D/CompressedTexture2D::2327672860559380957::1757790070::1757790089::1::::<><><>0<>0<>33ab424ca5161c4caf8d62eb3a670fb1<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D/CompressedTexture2D::8528892339132544280::1757790070::1757790089::1::::<><><>0<>0<>b1dbe80a1e7054da4fefbdb79fce99a8<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
 ::res://fonts/::1757787718
 LICENSE.txt::TextFile/TextFile::-1::1757682574::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757682574::1757682583::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
