@@ -1,18 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757789688
-export_presets.cfg::TextFile/TextFile::-1::1757789688::0::1::::<><><>0<>0<><>::
+::res://::1757790087
+export_presets.cfg::TextFile/TextFile::-1::1757790071::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757682574::1757682583::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main.gd::GDScript/GDScript::9116220553075717935::1757778210::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::4478212989435641906::1757789615::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
+main.tscn::PackedScene::4478212989435641906::1757789697::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
 mob.gd::GDScript::7978233083930169204::1757788755::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::2104397866351047185::1757789615::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://b8ghpgklcr2o7::::res://art/minecraft_hit_soundmp3converter.mp3<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
-music_player.tscn::PackedScene::1802506390125390882::1757789615::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+mob.tscn::PackedScene::2104397866351047185::1757789697::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://b8ghpgklcr2o7::::res://art/minecraft_hit_soundmp3converter.mp3<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
+music_player.tscn::PackedScene::1802506390125390882::1757789697::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
 player.gd::GDScript::7368034664937274069::1757788621::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::1749998009480602555::1757789615::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb<>uid://da8jd2oqsf5au::::res://art/action_jump.mp3
+player.tscn::PackedScene::1749998009480602555::1757789697::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb<>uid://da8jd2oqsf5au::::res://art/action_jump.mp3
 score_label.gd::GDScript/GDScript::3143647212666895673::1757777800::0::1::::<>Label<><>0<>0<><>::
-Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D::6149864563751193485::1757789687::1757789694::1::::<><><>0<>0<>98551d43c81d68c49c9829ae3a0c0db6<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-1844e576c631660406e60faa9c645e49.ctex::
-Squash the Creeps (3D).icon.png::CompressedTexture2D::6138876049676077595::1757789687::1757789694::1::::<><><>0<>0<>1baae78c5dbde074b235d5ee8ec3cb20<>res://.godot/imported/Squash the Creeps (3D).icon.png-71fa74acf5a27e145c531cdaedcc3932.ctex::
-Squash the Creeps (3D).png::CompressedTexture2D::7193987182432475187::1757789687::1757789694::1::::<><><>0<>0<>06973069ed37ded567469130b7875e10<>res://.godot/imported/Squash the Creeps (3D).png-e17538b9ef25afd99a524c56b181ed60.ctex::
 ::res://art/::1757788440
 action_jump.mp3::AudioStreamMP3/AudioStreamMP3::7227939767788856404::1757788440::1757788440::1::::<><><>0<>0<>ad82e43a1bf3df11649e9a890bdb50a9<>res://.godot/imported/action_jump.mp3-7dd16c5a13198bb29fb3d9a74a6477e8.mp3str::
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
@@ -33,6 +30,10 @@ mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<>
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1757682574::1757682585::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
+::res://docs/::1757790070
+index.apple-touch-icon.png::CompressedTexture2D::8205683271826438271::1757790070::1757790089::1::::<><><>0<>0<>eb87407cbfa446e4df6f1d20621d45c3<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::2327672860559380957::1757790070::1757790089::1::::<><><>0<>0<>33ab424ca5161c4caf8d62eb3a670fb1<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::8528892339132544280::1757790070::1757790089::1::::<><><>0<>0<>b1dbe80a1e7054da4fefbdb79fce99a8<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
 ::res://fonts/::1757787718
 LICENSE.txt::TextFile/TextFile::-1::1757682574::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757682574::1757682583::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
