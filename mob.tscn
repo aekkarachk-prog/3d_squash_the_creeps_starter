@@ -7,6 +7,21 @@
 [sub_resource type="BoxShape3D" id="BoxShape3D_p11y5"]
 size = Vector3(2.845, 3, 2.87)
 
+[sub_resource type="Animation" id="Animation_ubaqv"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Pivot/Sketchfab_Scene:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 1.285, 0)]
+}
+
 [sub_resource type="Animation" id="Animation_nokgg"]
 resource_name = "float"
 length = 1.2
@@ -46,21 +61,6 @@ tracks/2/keys = {
 "transitions": PackedFloat32Array(1, 0.4, 1),
 "update": 0,
 "values": [Vector3(0, 1.285, 0), Vector3(0, 1.625, 0), Vector3(0, 2.455, 0)]
-}
-
-[sub_resource type="Animation" id="Animation_ubaqv"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Pivot/Sketchfab_Scene:position")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Vector3(0, 1.285, 0)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_ubaqv"]

@@ -29,6 +29,10 @@ window/size/viewport_height=540
 
 import/blender/enabled=false
 
+[gui]
+
+theme/custom_font="uid://jjnas7j8tkot"
+
 [input]
 
 move_left={
