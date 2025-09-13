@@ -1,14 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757787851
-export_presets.cfg::TextFile/TextFile::-1::1757786417::0::1::::<><><>0<>0<><>::
+::res://::1757789246
+export_presets.cfg::TextFile/TextFile::-1::1757788847::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757682574::1757682583::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main.gd::GDScript::9116220553075717935::1757778210::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::4478212989435641906::1757787851::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
-mob.gd::GDScript::7978233083930169204::1757783909::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::2104397866351047185::1757787851::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
-music_player.tscn::PackedScene::1802506390125390882::1757787851::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
-player.gd::GDScript::7368034664937274069::1757783098::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::1749998009480602555::1757787851::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb
+main.tscn::PackedScene::4478212989435641906::1757789246::0::1::::<><><>0<>0<><>::uid://d24725vminu28::::res://main.gd<>uid://y6yhgskfp7br::::res://player.tscn<>uid://48nei721m6un::::res://mob.tscn<>uid://bdxpcdrq3ywgq::::res://art/craiyon_003048_realistic_looking_texture_for_creating_grass_top_side_png_in_Minecraft_2d__16x16.png<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bk12n7koxju8p::::res://score_label.gd<>uid://dsq6xkyb6ki5r::::res://art/minecraft_tree.glb
+mob.gd::GDScript::7978233083930169204::1757788755::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::2104397866351047185::1757789246::0::1::::<><><>0<>0<><>::uid://dlwyllimrpw5y::::res://mob.gd<>uid://b8ghpgklcr2o7::::res://art/minecraft_hit_soundmp3converter.mp3<>uid://bicorb7we351t::::res://art/mob.glb<>uid://cgvquyuqk4d8j::::res://art/minecraft_-_slime.glb
+music_player.tscn::PackedScene::1802506390125390882::1757789246::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::7368034664937274069::1757788621::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::1749998009480602555::1757789246::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://dc8epplvp0s8t::::res://player.gd<>uid://ccgfjpmi4lu24::::res://art/copper_golem__unoxidized__minecraft.glb<>uid://da8jd2oqsf5au::::res://art/action_jump.mp3
 score_label.gd::GDScript::3143647212666895673::1757777800::0::1::::<>Label<><>0<>0<><>::
 ::res://art/::1757788440
 action_jump.mp3::AudioStreamMP3::7227939767788856404::1757788440::1757788440::1::::<><><>0<>0<>ad82e43a1bf3df11649e9a890bdb50a9<>res://.godot/imported/action_jump.mp3-7dd16c5a13198bb29fb3d9a74a6477e8.mp3str::
@@ -30,10 +30,10 @@ mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<>
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1757682574::1757682585::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757682574::0::1::::<><><>0<>0<><>::
-::res://docs/::1757786532
-Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::359595899681437051::1757786417::1757786532::1::::<><><>0<>0<>823e632bd252c951b88c46fef2aab68d<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
-Squash the Creeps (3D).icon.png::CompressedTexture2D/CompressedTexture2D::8124028105131657385::1757786417::1757786532::1::::<><><>0<>0<>9a27754f9baa818fb95ca128699eec83<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
-Squash the Creeps (3D).png::CompressedTexture2D/CompressedTexture2D::1222692142889273633::1757786416::1757786532::1::::<><><>0<>0<>f22eedff6a9c322e04f2facf9a64dec4<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
+::res://docs/::1757789242
+Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D::1466793915607959713::1757789242::1757789253::1::::<><><>0<>0<>9f29afdd6ee341ce493a3bc809640d63<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
+Squash the Creeps (3D).icon.png::CompressedTexture2D::868633072544259716::1757789242::1757789253::1::::<><><>0<>0<>5589a31c587ba51fabab86e8bfbb51d0<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
+Squash the Creeps (3D).png::CompressedTexture2D::158333686715975113::1757789242::1757789253::1::::<><><>0<>0<>9ee0b45f66f1b4b154c7ec99dd6bdeb1<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
 ::res://fonts/::1757787718
 LICENSE.txt::TextFile/TextFile::-1::1757682574::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757682574::1757682583::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
