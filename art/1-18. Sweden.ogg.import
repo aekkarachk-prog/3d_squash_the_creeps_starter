@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://o2t06f0auhsk"
+path="res://.godot/imported/1-18. Sweden.ogg-fd710fa427c68c3998ce4799138713db.oggvorbisstr"
+
+[deps]
+
+source_file="res://art/1-18. Sweden.ogg"
+dest_files=["res://.godot/imported/1-18. Sweden.ogg-fd710fa427c68c3998ce4799138713db.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
